@@ -1,2 +1,12 @@
-# Email-notification-and-movement-process-in-an-organization-
-To design and implement an automated email notification and movement process workflow that streamlines communication across the organization and ensures timely progression of tasks
+# my-third-project
+
+## About This Project
+This is my third repository on GitHub. I created it
+to practice uploading and editing files.
+
+## What's Inside
+- README.md — this file
+- project-notes.txt — my project notes
+
+## Author
+Made with ❤️ by **priya**

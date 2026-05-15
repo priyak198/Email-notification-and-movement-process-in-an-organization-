@@ -8,7 +8,7 @@ Email Notification and Movement Workflow
 The Email Notification and Movement Workflow System on AWS automates the flow of requests or tasks across multiple stages while sending real‑time email notifications to users at each stage. The system ensures efficient workflow management, faster response times, and accurate tracking of request status using AWS cloud services.
 This project is applicable to use cases such as leave management, document approval, service request tracking, and helpdesk ticketing systems.
 
-2.   Objectives
+       2.   Objectives
 
 ·	  To design a serverless and scalable workflow system using AWS
 
@@ -22,7 +22,7 @@ This project is applicable to use cases such as leave management, document appro
 
 
 
-3.   AWS Services Used
+    3.   AWS Services Used
    
 ·	AWS Lambda
 

@@ -1,6 +1,6 @@
-# my-third-project
 
-Email Notification and Movement Workflow – AWS Project Notes
+
+Email Notification and Movement Workflow 
 
 
 ## About This Project
@@ -93,5 +93,3 @@ The AWS Email Notification and Movement Workflow system efficiently automates or
 - README.md — project documentation
 - project 3.txt — documents
 
-## Author
-Made with ❤️ by **priya**

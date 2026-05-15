@@ -10,11 +10,16 @@ This project is applicable to use cases such as leave management, document appro
 
 2. Objectives
 
-·	 To design a serverless and scalable workflow system using AWS
-·	 To automate task or request movement between approval levels
-·	 To send email notifications at every workflow stage
-·	 To maintain secure access and logging
-·	 To reduce manual intervention and processing delays
+·	  To design a serverless and scalable workflow system using AWS
+
+·	  To automate task or request movement between approval levels
+
+·	  To send email notifications at every workflow stage
+
+·	  To maintain secure access and logging
+
+·	  To reduce manual intervention and processing delays
+
 
 
 3. AWS Services Used

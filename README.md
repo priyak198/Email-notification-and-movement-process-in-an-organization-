@@ -21,7 +21,7 @@ This project is applicable to use cases such as leave management, document appro
    
 ·	AWS Lambda
 
-Used to execute workflow logic without managing servers. Lambda functions handle submission, approval, rejection, and escalation events.
+   Used to execute workflow logic without managing servers. Lambda functions handle submission, approval, rejection, and escalation events.
 
 ·	Amazon SNS (Simple Notification Service)
 Responsible for sending email notifications to users when workflow actions occur.

@@ -21,13 +21,15 @@ This project is applicable to use cases such as leave management, document appro
    
 ·	AWS Lambda
 
-   Used to execute workflow logic without managing servers. Lambda functions handle submission, approval, rejection, and escalation events.
+    Used to execute workflow logic without managing servers. Lambda functions handle submission, approval, rejection, and escalation events.
 
 ·	Amazon SNS (Simple Notification Service)
-Responsible for sending email notifications to users when workflow actions occur.
+
+    Responsible for sending email notifications to users when workflow actions occur.
 
 ·	Amazon SQS (Simple Queue Service)
-Decouples workflow components and handles request movement reliably between stages.
+
+    Decouples workflow components and handles request movement reliably between stages.
 ·	Amazon API Gateway
 Provides REST APIs to receive user requests from the frontend application.
 ·	Amazon DynamoDB

@@ -10,18 +10,20 @@ This project is applicable to use cases such as leave management, document appro
 
 2. Objectives
 
-·	To design a serverless and scalable workflow system using AWS
-·	To automate task or request movement between approval levels
-·	To send email notifications at every workflow stage
-·	To maintain secure access and logging
-·	To reduce manual intervention and processing delays
+·	 To design a serverless and scalable workflow system using AWS
+·	 To automate task or request movement between approval levels
+·	 To send email notifications at every workflow stage
+·	 To maintain secure access and logging
+·	 To reduce manual intervention and processing delays
 
 
 3. AWS Services Used
 ·	AWS Lambda
 Used to execute workflow logic without managing servers. Lambda functions handle submission, approval, rejection, and escalation events.
+
 ·	Amazon SNS (Simple Notification Service)
 Responsible for sending email notifications to users when workflow actions occur.
+
 ·	Amazon SQS (Simple Queue Service)
 Decouples workflow components and handles request movement reliably between stages.
 ·	Amazon API Gateway
@@ -33,7 +35,7 @@ Manages secure access permissions for Lambda, SNS, SQS, and DynamoDB.
 ·	Amazon CloudWatch
 Monitors workflow execution, logs system activity, and triggers alerts for failures.
 
-4. System Architecture
+5. System Architecture
 
 ·	User submits a request via a web or mobile interface
 ·	API Gateway receives the request and triggers a Lambda function
